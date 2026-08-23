@@ -1,6 +1,10 @@
-# Python Heart Animation
+# Heart Animation
 
 A colorful heart animation built with Python's Turtle graphics and mathematical heart equations.
+
+## Overview
+
+![alt text](demo.png)
 
 ## Features
 
@@ -38,7 +42,8 @@ The program calculates points around the curve and uses Turtle to draw lines fro
 
 ```text
 Heart-Animation/
-├── heart_animation.py
+├── main.py
+├── demo.png
 ├── README.md
 └── .gitignore
 ```
